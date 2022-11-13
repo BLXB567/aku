@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6283117436733@s.whatsapp.net"],
+    "ownerName": "Ward D Syah",
+    "instagram" : "https://instagram.com/ward_d_syah",
+    "botName": "Takina WDS",
+    "footer": "https://telegra.ph/file/b01d9f310aaac930ab8c7.png",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
